@@ -8,5 +8,5 @@
 
 ---
 
-I'm a software developer, tech community organizer, and student of life. My interests are largely based at the intersection of equitable education via tech, developer advocacy, and product management. 
+I'm a software developer, tech community organizer, and student of life. My interests are at the intersection of equitable education via tech, developer advocacy, and product management. 
 </p>
