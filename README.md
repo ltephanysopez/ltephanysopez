@@ -2,11 +2,8 @@
 <h3 align="center"> hi, im stephany </h3>
 
 <p align="center">
-  <a href="https://dev.to/ltephanysopez">blog</a> •
-  <a href="https://twitter.com/ltephanysopez">twitter</a>
+  <a href="https://medium.com/@ltephanysopez">blog</a> •
+  <a href="https://twitter.com/ltephanysopez">twitter</a> •
+  <a href="https://linkedin.com/in/ltephanysopez">linkedin</a>
 
-
----
-
-I'm a software developer, tech community organizer, and student of life. My interests are at the intersection of equitable education via tech, developer advocacy, and product management. 
 </p>
